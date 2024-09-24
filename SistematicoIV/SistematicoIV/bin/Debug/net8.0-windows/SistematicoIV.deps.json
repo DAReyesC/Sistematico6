@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SistematicoIV/1.0.0": {
+        "runtime": {
+          "SistematicoIV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistematicoIV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

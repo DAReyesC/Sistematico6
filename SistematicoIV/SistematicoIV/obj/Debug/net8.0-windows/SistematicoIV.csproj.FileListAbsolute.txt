@@ -1,0 +1,16 @@
+C:\Users\David Reyes\source\repos\SistematicoIV\SistematicoIV\obj\Debug\net8.0-windows\SistematicoIV.Form1.resources
+C:\Users\David Reyes\source\repos\SistematicoIV\SistematicoIV\obj\Debug\net8.0-windows\SistematicoIV.csproj.GenerateResource.cache
+C:\Users\David Reyes\source\repos\SistematicoIV\SistematicoIV\obj\Debug\net8.0-windows\SistematicoIV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Reyes\source\repos\SistematicoIV\SistematicoIV\obj\Debug\net8.0-windows\SistematicoIV.AssemblyInfoInputs.cache
+C:\Users\David Reyes\source\repos\SistematicoIV\SistematicoIV\obj\Debug\net8.0-windows\SistematicoIV.AssemblyInfo.cs
+C:\Users\David Reyes\source\repos\SistematicoIV\SistematicoIV\obj\Debug\net8.0-windows\SistematicoIV.csproj.CoreCompileInputs.cache
+C:\Users\David Reyes\source\repos\SistematicoIV\SistematicoIV\bin\Debug\net8.0-windows\SistematicoIV.exe
+C:\Users\David Reyes\source\repos\SistematicoIV\SistematicoIV\bin\Debug\net8.0-windows\SistematicoIV.deps.json
+C:\Users\David Reyes\source\repos\SistematicoIV\SistematicoIV\bin\Debug\net8.0-windows\SistematicoIV.runtimeconfig.json
+C:\Users\David Reyes\source\repos\SistematicoIV\SistematicoIV\bin\Debug\net8.0-windows\SistematicoIV.dll
+C:\Users\David Reyes\source\repos\SistematicoIV\SistematicoIV\bin\Debug\net8.0-windows\SistematicoIV.pdb
+C:\Users\David Reyes\source\repos\SistematicoIV\SistematicoIV\obj\Debug\net8.0-windows\SistematicoIV.dll
+C:\Users\David Reyes\source\repos\SistematicoIV\SistematicoIV\obj\Debug\net8.0-windows\refint\SistematicoIV.dll
+C:\Users\David Reyes\source\repos\SistematicoIV\SistematicoIV\obj\Debug\net8.0-windows\SistematicoIV.pdb
+C:\Users\David Reyes\source\repos\SistematicoIV\SistematicoIV\obj\Debug\net8.0-windows\SistematicoIV.genruntimeconfig.cache
+C:\Users\David Reyes\source\repos\SistematicoIV\SistematicoIV\obj\Debug\net8.0-windows\ref\SistematicoIV.dll
